@@ -25,6 +25,8 @@
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
+	<a href="/products">Danh sach san pham</a>
+
 	<Counter />
 </section>
 
