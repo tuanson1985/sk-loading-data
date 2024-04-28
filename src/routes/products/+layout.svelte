@@ -1,5 +1,6 @@
 <script>
     export let data;
+    const username = data.username
     const title = data.title;
     const featureProduct = data.featureProduct
 </script>
